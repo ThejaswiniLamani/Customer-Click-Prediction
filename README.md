@@ -1,7 +1,5 @@
 # Customer-Click-Prediction
 
-# Customer Click Prediction
-
 ## Objective
 
 The objective of this project is to develop an effective machine learning model to predict customer clicks on advertisements. By analyzing key features such as:
