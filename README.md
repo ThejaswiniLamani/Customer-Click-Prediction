@@ -1,4 +1,4 @@
-# Customer-Click-Prediction
+# Customer Click Prediction
 
 ## Objective
 
@@ -51,4 +51,3 @@ Results
 Logistic Regression Accuracy: 0.97
 Decision Tree Accuracy: 0.95
 Random Forest Accuracy: 0.96
-![Uploading image.png…]()
